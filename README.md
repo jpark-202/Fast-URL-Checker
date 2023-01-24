@@ -60,7 +60,8 @@ Fast-URL-Checker, as indicated by the name, it is a _quick_ url checking applica
     ```
 <!-- USAGE EXAMPLES -->
 ## Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Fast-URL-Checker validates any quantity of any form of URL.
+
 ![alt text](https://github.com/jpark-202/Fast-URL-Checker/blob/main/img/img2.png?raw=true)
 ![alt text](https://github.com/jpark-202/Fast-URL-Checker/blob/main/img/img1.png?raw=true)
 _For more examples, please refer to the [Documentation](https://example.com)_
