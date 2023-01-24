@@ -51,14 +51,14 @@ To get a local copy up and running follow these simple example steps.
    ```
 2. Enter your API in `config.js`
    ```js
-   urls := []string{
+    urls := []string{
 		"ENTER YOUR URL 1",
 		"ENTER YOUR URL 2",
 		"ENTER YOUR URL .",
 		"ENTER YOUR URL .",
-            "ENTER YOUR URL .",
+		"ENTER YOUR URL .",
 		"ENTER YOUR URL n-1",
-            "ENTER YOUR URL n",
+		"ENTER YOUR URL n",
 	}
 
    ```
