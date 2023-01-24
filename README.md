@@ -59,7 +59,7 @@ Fast-URL-Checker, as indicated by the name, it is a _quick_ url checking applica
     go run fastURLChecker.go
     ```
 <!-- USAGE EXAMPLES -->
-## Usage (How it can be used)
+## Usage (How it is be used)
 Fast-URL-Checker validates any quantity of any form of URL.
 
 1. Input any form and any number of URLs in array.
