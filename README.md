@@ -5,10 +5,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-the-project">🧐 Project philosophy</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -43,11 +40,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Golang
+  https://go.dev/doc/install
 
 ### Installation
 
