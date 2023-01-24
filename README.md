@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 * Golang <br/>
-  Download golang here: https://go.dev/doc/install
+  * Download golang here: https://go.dev/doc/install
 
 ### Installation
 
