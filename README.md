@@ -62,9 +62,14 @@ Fast-URL-Checker, as indicated by the name, it is a _quick_ url checking applica
 ## Usage
 Fast-URL-Checker validates any quantity of any form of URL.
 
-![alt text](https://github.com/jpark-202/Fast-URL-Checker/blob/main/img/img2.png?raw=true)
-![alt text](https://github.com/jpark-202/Fast-URL-Checker/blob/main/img/img1.png?raw=true)
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. Input any form and any number of URLs in array.
+    ![alt text](https://github.com/jpark-202/Fast-URL-Checker/blob/main/img/img2.png?raw=true)
+
+2. Execute the program
+    ```sh
+    go run fastURLChecker.go
+    ```
+    ![alt text](https://github.com/jpark-202/Fast-URL-Checker/blob/main/img/img1.png?raw=true)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
