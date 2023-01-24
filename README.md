@@ -30,8 +30,6 @@
 Fast-URL-Checker, as indicated by the name, it is a _quick_ url checking application. It uses "goroutines" to thrive in concurrency (speed).
 
 ## 🏃 Getting Started
-To use the Fast-URL-Checker, follow the steps:
-
 ### Prerequisites
 
 * Golang <br/>
@@ -68,7 +66,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
