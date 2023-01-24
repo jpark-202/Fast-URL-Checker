@@ -49,8 +49,8 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/jpark-202/Fast-URL-Checker.git
    ```
-2. Enter your API in `config.js`
-   ```js
+2. Enter your URLs in `main()`
+   ```go
     urls := []string{
 		"ENTER YOUR URL 1",
 		"ENTER YOUR URL 2",
