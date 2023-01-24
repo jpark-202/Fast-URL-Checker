@@ -41,24 +41,26 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 * Golang <br/>
-  * Download golang here: https://go.dev/doc/install
+  * Download link: https://go.dev/doc/install
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/jpark-202/Fast-URL-Checker.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
+2. Enter your API in `config.js`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   urls := []string{
+		"ENTER YOUR URL 1",
+		"ENTER YOUR URL 2",
+		"ENTER YOUR URL .",
+		"ENTER YOUR URL .",
+        "ENTER YOUR URL .",
+		"ENTER YOUR URL n-1",
+        "ENTER YOUR URL n",
+	}
+
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
