@@ -33,7 +33,7 @@ Fast-URL-Checker, as indicated by the name, it is a _quick_ url checking applica
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting Started
+## 🏃 Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
