@@ -54,9 +54,9 @@ To get a local copy up and running follow these simple example steps.
     urls := []string{
 		"ENTER YOUR URL 1",
 		"ENTER YOUR URL 2",
-		"ENTER YOUR URL .",
-		"ENTER YOUR URL .",
-		"ENTER YOUR URL .",
+                .
+                .
+                .
 		"ENTER YOUR URL n-1",
 		"ENTER YOUR URL n",
 	}
