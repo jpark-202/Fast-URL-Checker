@@ -63,6 +63,7 @@ Fast-URL-Checker, as indicated by the name, it is a _quick_ url checking applica
 Fast-URL-Checker validates any quantity of any form of URL.
 
 1. Input any form and any number of URLs in array.
+
     ![alt text](https://github.com/jpark-202/Fast-URL-Checker/blob/main/img/img2.png?raw=true)
 
 2. Execute the program
