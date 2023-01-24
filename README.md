@@ -30,6 +30,7 @@
 Fast-URL-Checker, as indicated by the name, it is a _quick_ url checking application. It uses "goroutines" to thrive in concurrency (speed).
 
 ## 🏃 Getting Started
+To use the Fast-URL-Checker, follow the steps:
 
 ### Prerequisites
 
