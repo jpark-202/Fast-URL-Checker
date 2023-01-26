@@ -1,4 +1,4 @@
-<h1>Fast URL Checker</h2>
+<h1>LinkVerify</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details>
